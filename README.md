@@ -14,6 +14,7 @@ Bouquet Server exposes the Bouquet REST API.
 * [Bugs and feature requests](#bugs-and-feature-requests)
 * [Documentation](#documentation)
 * [Contributing](#contributing)
+* [Compile from sources](#compile-from-sources)
 
 ## Overview
 
@@ -31,7 +32,11 @@ https://bouquet.zendesk.com/hc/en-us
 
 ## Contributing
 
-The Bouquet development team is always excited to =erge new code and fixes into Bouquet projects. Please checkout our [contribution guidelines](CONTRIBUTING.md) before starting.
+The Bouquet development team is always excited to merge new code and fixes into Bouquet projects. Please checkout our [contribution guidelines](CONTRIBUTING.md) before starting.
+
+## Compile from sources
+
+You need to clone/fork the [bouquet-parent](/openbouquet/bouquet-parent) repository and follow its compiling instructions.
 
 ## License
 

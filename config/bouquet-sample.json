@@ -1,6 +1,5 @@
 {
   "elasticLocal": true,
-  "featureDynamic": true,
   "defaultClientURL": "localhost",
   "cache": {
     "ttlInSecond": 86400,
