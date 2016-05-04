@@ -4,7 +4,7 @@
 	<parent>
 		<groupId>io.openbouquet</groupId>
 		<artifactId>bouquet-parent</artifactId>
-		<version>4.2.8-SNAPSHOT</version>
+		<version>4.2.9-SNAPSHOT</version>
 		<relativePath>../bouquet-parent/pom.xml</relativePath>
 	</parent>
 
@@ -385,7 +385,7 @@
 					<!-- application path always starts with / -->
 					<path>/dev/v4.2</path>
 					<systemProperties>
-						<bouquet.config.file>${project.basedir}/config/bouquet.json</kraken.config.file>
+						<bouquet.config.file>${project.basedir}/config/bouquet.json</bouquet.config.file>
 						<kraken.plugin.dir>${project.basedir}/../drivers</kraken.plugin.dir>
 						<kraken.facet>front,keyserver,queries,queryworker</kraken.facet>
 						<es.network.bind_host>127.0.0.1</es.network.bind_host>
